@@ -5,7 +5,7 @@ Requirements: pycipher,webbrowser, selenium
 
 Before running the program, you must download the appropriate ChromeDriver file and type it's absolute path into the appropriate location in the script.
 
-Then open a terminal and run 'sudo chmod +x cryptbrute.py' and then 'python3 stegbrute'.
+Then open a terminal and run 'sudo chmod +x cryptbrute.py' and then 'python3 stegbrute.py'.
 
 The program will ask you to input the ciphertext. Follow the instructions.
 
