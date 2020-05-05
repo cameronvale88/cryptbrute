@@ -1,5 +1,5 @@
 # cryptbrute
-This program is designed to speed up ctf challenges that use ancient ciphers by brute forcing through them. It assumes that you are using google chrome.
+This program is designed to speed up ctf challenges that use ancient ciphers by looping through some of the most common ones. It assumes that you are using google chrome.
 
 Requirements: pycipher,webbrowser, selenium
 
