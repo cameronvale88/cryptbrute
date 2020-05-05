@@ -7,6 +7,6 @@ Before running the program, you must download the appropriate ChromeDriver file 
 
 Then open a terminal and run 'sudo chmod +x cryptbrute.py' and then 'python3 stegbrute.py'.
 
-The program will ask you to input the ciphertext. Follow the instructions.
+The program will ask you to input the ciphertext. Follow the instructions. Google chrome will open to a site and utilze its recources to brute for that vigenere cipher. The other ciphers will completed on the terminal. The results for the non-vigenere ciphers will be saved to files within the same directory from where the program in run.
 
 If you have any questions or comments, please feel free to comments.
