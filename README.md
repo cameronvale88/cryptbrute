@@ -9,4 +9,6 @@ Then open a terminal and run 'sudo chmod +x cryptbrute.py' and then 'python3 ste
 
 The program will ask you to input the ciphertext. Follow the instructions. Google chrome will open to a site and utilze its recources to brute for that vigenere cipher. The other ciphers will completed on the terminal. The results for the non-vigenere ciphers will be saved to files within the same directory from where the program in run.
 
+## NOTE: Currently, this scripts is not able to properly handle punctuation. On the ctfs that I've worked on, it was acceptable to remove the punctuation and restore it after decoding. 
+
 If you have any questions or comments, please feel free to comments.
